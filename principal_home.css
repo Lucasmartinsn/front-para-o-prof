@@ -1,0 +1,31 @@
+/* css extra da pagina home*/
+/* section um*/
+/* spam do titulo*/
+.yellow{
+    color:yellow;
+}
+/* formatação do circulo*/
+.circulo{
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    border-radius: 50%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+/* section dois*/
+/* formatação extra dos cards*/
+.sublinhado{
+    text-decoration: overline 2px;
+    color: #C11FD8;
+}
+.espasamento{
+    justify-content: space-around;
+}
+.boder{
+    border: solid 1px #C11FD8 ;
+}
+body{
+    background-color:black;
+}
